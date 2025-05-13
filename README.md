@@ -53,6 +53,9 @@ Anomaly Detector is a web application designed to identify unusual patterns in d
 - **API Connectivity**: Integration with external data sources
 - **Mobile Application**: Companion app for on-the-go monitoring
 
+🚧 Under Construction: This project is actively being developed with new features and improvements added regularly. While the core functionality is operational,
+ I'm currently enhancing the machine learning models and expanding the integration capabilities.
+
 Note: This project is maintained as a private repository for security purposes. The images show a demonstration version with non-sensitive data.
 
 ## 📬 Contact
