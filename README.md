@@ -53,18 +53,10 @@ Anomaly Detector is a web application designed to identify unusual patterns in d
 - **API Connectivity**: Integration with external data sources
 - **Mobile Application**: Companion app for on-the-go monitoring
 
-## 📝 License
-
-This project is licensed under a custom non-commercial license. 
-See the [LICENSE](./License.txt) file for details.
-
-**Important:** This software is intended for personal, educational, and non-commercial use only.
-Commercial use is prohibited without express written permission.
+Note: This project is maintained as a private repository for security purposes. The images show a demonstration version with non-sensitive data.
 
 ## 📬 Contact
 
 Anastasis Moraitis - [anastasismora@gmail.com](mailto:anastasismora@gmail.com)
 
 LinkedIn: [https://www.linkedin.com/in/anastasis-moraitis-b60216327/](https://www.linkedin.com/in/anastasis-moraitis-b60216327/)
-
-Project Link: [https://github.com/anastasis-mor/Anomaly-Detector](https://github.com/anastasis-mor/Anomaly-Detector)
