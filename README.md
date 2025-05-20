@@ -12,11 +12,15 @@ Anomaly Detector is a web application designed to identify unusual patterns in d
 - **Historical Analysis**: Stores and allows review of past anomalies for pattern recognition
 - **Customizable Thresholds**: Allows users to define sensitivity levels for different types of data
 
-## 🎥 Demo
+## 🎥 Deployment
 
-[![Anomaly Detector Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]()
+[![Anomaly Detector Demo](https://anomaly-private.onrender.com/anomaly)]()
+[![Test Client](https://client-tester.onrender.com/)]()
 
-*Click the image above to watch the demo video*
+You can test it with fail log-in in the Test Client
+Connect in the Anomaly-Detector with username: post@post.com password: 123
+
+*Click the image above to see the deployment*
 
 ## 💻 Technology Stack
 
