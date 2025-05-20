@@ -22,7 +22,7 @@ https://client-tester.onrender.com/
 You can test it with fail log-in in the Test Client.
 Connect in the Anomaly-Detector with username: post@post.com password: 123
 
-Note: need some updates to ingest the logs on render platform.
+Note: Try to fail log in the Test-Client so you can see the results in the Detector.
 
 ## 💻 Technology Stack
 
