@@ -14,8 +14,10 @@ Anomaly Detector is a web application designed to identify unusual patterns in d
 
 ## 🎥 Deployment
 
-[!Anomaly-Detector(https://anomaly-private.onrender.com/anomaly)]()
-[!Test-Client(https://client-tester.onrender.com/)]()
+Anomaly-Detector
+https://anomaly-private.onrender.com/anomaly
+Test-Client
+https://client-tester.onrender.com/
 
 You can test it with fail log-in in the Test Client
 Connect in the Anomaly-Detector with username: post@post.com password: 123
